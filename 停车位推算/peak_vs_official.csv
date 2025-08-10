@@ -1,0 +1,751 @@
+station_id,capacity_peak,station_name,docks_total,diff_peak,ape_peak
+30200,26,9th St & Pennsylvania Ave NW,15,11,73.33333333333333
+30201,17,9th & G St NW,11,6,54.54545454545454
+31000,7,Eads St & 15th St S,12,-5,41.66666666666667
+31002,12,Crystal Dr & 20th St S,7,5,71.42857142857143
+31003,11,Crystal Dr & 15th St S,5,6,120.0
+31004,4,Aurora Hills Cmty Ctr / 18th St & S Hayes St,3,1,33.33333333333333
+31005,9,Pentagon City Metro / 12th St & S Hayes St,5,4,80.0
+31006,6,Pentagon Row Plaza / Army Navy Dr & Joyce St,1,5,500.0
+31007,11,Crystal City Metro / 18th St & S Bell St,8,3,37.5
+31009,4,Crystal Dr & 27th St S,8,-4,50.0
+31010,4,S Glebe Rd & Potomac Ave,8,-4,50.0
+31011,8,Crystal Dr & 23rd St S,12,-4,33.33333333333333
+31012,5,Clark St & 26th St S,8,-3,37.5
+31013,8,Eads St & 22nd St S,6,2,33.33333333333333
+31014,13,19th St N & Ft Myer Dr,10,3,30.0
+31015,11,Wilson Blvd & Ft Myer Dr,11,0,0.0
+31016,8,Clarendon Blvd & Pierce St,12,-4,33.33333333333333
+31017,9,Wilson Blvd & N Uhle St,13,-4,30.76923076923077
+31018,5,Rhodes St & 16th St N,2,3,150.0
+31019,5,Wilson Blvd & N Edgewood St,10,-5,50.0
+31020,9,Wilson Blvd & N Franklin Rd,7,2,28.57142857142857
+31021,5,Clarendon Blvd & N Fillmore St,14,-9,64.28571428571429
+31022,14,Clarendon Metro / Wilson Blvd & N Highland St,18,-4,22.22222222222222
+31023,6,Fairfax Dr & Wilson Blvd,10,-4,40.0
+31024,8,Virginia Square Metro / Monroe St & 9th St N,8,0,0.0
+31025,7,Central Library / Quincy St & 10th St N,10,-3,30.0
+31026,6,Washington Blvd & 10th St N,15,-9,60.0
+31027,7,Wilson Blvd & N Quinn St,15,-8,53.333333333333336
+31028,5,N Veitch St & Key Blvd,12,-7,58.333333333333336
+31029,9,N Veitch St & 20th St N,13,-4,30.76923076923077
+31030,6,Langston Blvd & N Adams St,14,-8,57.14285714285714
+31031,6,15th St & N Scott St,13,-7,53.84615384615385
+31032,4,Washington Blvd & 7th St N,7,-3,42.857142857142854
+31033,5,Barcroft Community Center,1,4,400.0
+31034,6,Fairfax Dr & N Randolph St,11,-5,45.45454545454545
+31035,4,N Quincy St & Glebe Rd,3,1,33.33333333333333
+31036,7,George Mason Dr & Wilson Blvd,7,0,0.0
+31037,8,Ballston Metro / Stuart St & 9th St N,21,-13,61.904761904761905
+31038,5,Glebe Rd & 11th St N,9,-4,44.44444444444444
+31039,7,Wilson Blvd & N Quincy St,13,-6,46.15384615384615
+31040,5,GMU/Fairfax Dr & Kenmore St,6,-1,16.666666666666664
+31041,11,Prince St & Union St,1,10,1000.0
+31042,6,Market Square / King St & Royal St,6,0,0.0
+31043,6,St Asaph & Pendleton St,4,2,50.0
+31044,5,King St & Patrick St,6,-1,16.666666666666664
+31045,4,Commerce St & Fayette St,7,-3,42.857142857142854
+31046,4,Henry St & Pendleton St,6,-2,33.33333333333333
+31047,6,Braddock Rd Metro North,13,-7,53.84615384615385
+31048,5,King St Metro South,19,-14,73.68421052631578
+31049,6,Fairfax Dr & N Taylor St,5,1,20.0
+31050,4,Barton St & 10th St N,8,-4,50.0
+31051,6,12th St N & N Pierce St,7,-1,14.285714285714285
+31052,4,Potomac Ave & 35th St S,8,-4,50.0
+31053,5,Columbia Pike & S Courthouse Rd,7,-2,28.57142857142857
+31054,4,Wakefield High School,5,-1,20.0
+31055,4,28th St & S Meade St,7,-3,42.857142857142854
+31057,5,S Four Mile Run Dr & Shirlington Rd,11,-6,54.54545454545454
+31058,4,Columbia Pike & Monroe St,7,-3,42.857142857142854
+31059,4,S Four Mile Run Dr & Walter Reed Dr,4,0,0.0
+31060,7,S Arlington Mill Dr & Campbell Ave,10,-3,30.0
+31061,3,S Kenmore St & 24th St S,9,-6,66.66666666666666
+31062,16,Roosevelt Island,4,12,300.0
+31063,3,S George Mason Dr & S Four Mile Run Dr,2,1,50.0
+31064,29,Gravelly Point,3,26,866.6666666666666
+31065,7,N Pershing Dr & N Wayne St,8,-1,12.5
+31066,3,Columbia Pike & S Orme St,4,-1,25.0
+31067,3,Columbia Pike & S Walter Reed Dr,7,-4,57.14285714285714
+31068,5,Arlington Mill Cmty Center / Columbia Pike & S Dinwiddie St,7,-2,28.57142857142857
+31069,4,N Pershing Dr & N George Mason Dr,8,-4,50.0
+31070,3,Arlington Blvd & Fillmore St,7,-4,57.14285714285714
+31071,15,Eads St & 12th St S,8,7,87.5
+31072,3,31st St & S Woodrow St,6,-3,50.0
+31073,6,Washington Blvd & Walter Reed Dr ,5,1,20.0
+31075,4,Rolfe St & 9th St S,1,3,300.0
+31076,4,S Randolph St & Campbell Ave,7,-3,42.857142857142854
+31077,12,Iwo Jima Memorial / Meade & 14th St N,14,-2,14.285714285714285
+31078,5,Arlington Blvd & S George Mason Dr,2,3,150.0
+31079,5,Langston Blvd & N Cleveland St,4,1,25.0
+31080,6,Langston Blvd & N Scott St,15,-9,60.0
+31081,3,Duke St & John Carlyle St,5,-2,40.0
+31082,3,Eisenhower Ave & Mill Race Ln,13,-10,76.92307692307693
+31083,6,Potomac Greens Dr & Slaters Ln,9,-3,33.33333333333333
+31084,4,Ballenger Ave & Dulaney St,12,-8,66.66666666666666
+31085,5,Mount Vernon Ave & E Nelson Ave,10,-5,50.0
+31086,5,Mount Vernon Ave & E Del Ray Ave,2,3,150.0
+31087,5,Monroe Ave & Leslie Ave,14,-9,64.28571428571429
+31088,4,Mount Vernon Ave & Kennedy St,8,-4,50.0
+31089,8,Court House Metro / 15th St & N Uhle St,16,-8,50.0
+31090,6,Long Bridge Park / Long Bridge Dr & 6th St S,3,3,100.0
+31091,6,Joyce St & 16th St S,3,3,100.0
+31092,3,Langston Blvd & N Monroe St,1,2,200.0
+31093,4,21st St & N Pierce St,11,-7,63.63636363636363
+31094,6,Langston Blvd & N Kirkwood Rd,5,1,20.0
+31095,2,Army Navy Dr & S Nash St,8,-6,75.0
+31096,4,Columbia Pike & S Highland St,9,-5,55.55555555555556
+31098,5,King St Metro North / Cameron St,1,4,400.0
+31099,3,Madison St & N Henry St,14,-11,78.57142857142857
+31100,14,19th St & Pennsylvania Ave NW,15,-1,6.666666666666667
+31101,29,14th & V St NW,1,28,2800.0
+31102,20,11th & Kenyon St NW,36,-16,44.44444444444444
+31104,19,Adams Mill & Columbia Rd NW,8,11,137.5
+31105,8,14th & Harvard St NW,16,-8,50.0
+31106,10,Calvert & Biltmore St NW,15,-5,33.33333333333333
+31107,19,Lamont & Mt Pleasant NW,11,8,72.72727272727273
+31108,22,4th & M St SW,21,1,4.761904761904762
+31109,13,7th St & Florida Ave NW,6,7,116.66666666666667
+31110,10,20th St & Florida Ave NW,9,1,11.11111111111111
+31111,16,10th & U St NW,13,3,23.076923076923077
+31112,18,Harvard St & Adams Mill Rd NW,11,7,63.63636363636363
+31113,16,Columbia Rd & Belmont St NW,10,6,60.0
+31114,18,18th St & Wyoming Ave NW,9,9,100.0
+31115,12,Columbia Rd & Georgia Ave NW,13,-1,7.6923076923076925
+31116,18,California St & Florida Ave NW,10,8,80.0
+31117,19,15th & Euclid St NW,6,13,216.66666666666666
+31118,14,3rd & Elm St NW,2,12,600.0
+31119,19,14th & Belmont St NW,15,4,26.666666666666668
+31120,14,10th St & Florida Ave NW,9,5,55.55555555555556
+31121,14,Calvert St & Woodley Pl NW,14,0,0.0
+31122,12,16th & Irving St NW,7,5,71.42857142857143
+31123,12,14th & Girard St NW,14,-2,14.285714285714285
+31124,23,14th & Irving St NW,23,0,0.0
+31125,23,15th & W St NW,7,16,228.57142857142856
+31126,16,11th & Girard St NW,8,8,100.0
+31127,16,22nd & H St NW,10,6,60.0
+31128,17,23rd & M St NW,14,3,21.428571428571427
+31129,20,15th St & Pennsylvania Ave NW,5,15,300.0
+31130,11,7th & S St NW,11,0,0.0
+31131,11,14th & Otis Pl NW,11,0,0.0
+31132,18,13th & U St NW,12,6,50.0
+31133,13,20th St & Columbia Rd NW,8,5,62.5
+31134,17,8th & V St NW,12,5,41.66666666666667
+31135,13,16th & Harvard St NW,18,-5,27.77777777777778
+31136,11,11th & Clifton St NW,19,-8,42.10526315789473
+31137,8,Park Pl & Rock Creek Church Rd NW,14,-6,42.857142857142854
+31138,6,4th & College St NW,7,-1,14.285714285714285
+31139,9,20th & M St NW ,11,-2,18.181818181818183
+31140,7,21st & L St NW ,14,-7,50.0
+31201,31,15th & P St NW,16,15,93.75
+31202,24,14th & R St NW,16,8,50.0
+31203,28,14th St & Rhode Island Ave NW,13,15,115.38461538461537
+31204,14,20th & E St NW,7,7,100.0
+31205,23,21st & I St NW,39,-16,41.02564102564102
+31206,9,19th & E Street NW,7,2,28.57142857142857
+31207,9,Georgia Ave & Fairmont St NW,15,-6,40.0
+31208,13,M St & New Jersey Ave SE,12,1,8.333333333333332
+31209,34,1st & N St SE,13,21,161.53846153846155
+31210,22,17th St & Rhode Island Ave NW,15,7,46.666666666666664
+31211,24,Kennedy Center,2,22,1100.0
+31212,14,New Hampshire Ave & Ward Pl NW,5,9,180.0
+31213,19,17th & K St NW,3,16,533.3333333333333
+31214,21,17th & Corcoran St NW,17,4,23.52941176470588
+31215,22,Georgetown Harbor / 30th St NW,8,14,175.0
+31216,27,14th St & New York Ave NW,25,2,8.0
+31217,27,USDA / 12th & C St SW,36,-9,25.0
+31218,19,L'Enfant Plaza / 7th & C St SW,11,8,72.72727272727273
+31219,27,10th St & Constitution Ave NW,43,-16,37.2093023255814
+31220,19,21st & E St NW,2,17,850.0
+31221,15,18th & M St NW,21,-6,28.57142857142857
+31222,22,15th St & New York Ave NW,17,5,29.411764705882355
+31223,15,Convention Center / 7th & M St NW,17,-2,11.76470588235294
+31224,15,18th & L St NW,8,7,87.5
+31225,39,Wisconsin Ave & K St NW,15,24,160.0
+31226,16,34th St & Wisconsin Ave NW,5,11,220.00000000000003
+31227,17,13th St & New York Ave NW,25,-8,32.0
+31228,22,8th & H St NW,30,-8,26.666666666666668
+31229,30,New Hampshire Ave & T St NW,1,29,2900.0
+31230,26,Metro Center / 12th & G St NW,17,9,52.94117647058824
+31231,22,14th & D St NW / John A Wilson Building,13,9,69.23076923076923
+31232,21,7th & F St NW / National Portrait Gallery,20,1,5.0
+31233,25,17th & K St NW / Farragut Square,34,-9,26.47058823529412
+31234,22,20th & O St NW / Dupont South,30,-8,26.666666666666668
+31235,34,19th St & Constitution Ave NW,31,3,9.67741935483871
+31236,26,37th & O St NW / Georgetown University,12,14,116.66666666666667
+31238,17,14th & G St NW,23,-6,26.08695652173913
+31239,12,Rhode Island & Connecticut Ave NW,19,-7,36.84210526315789
+31240,42,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,25,17,68.0
+31241,18,Thomas Circle,10,8,80.0
+31242,18,18th St & Pennsylvania Ave NW,22,-4,18.181818181818183
+31243,44,4th & C St SW,42,2,4.761904761904762
+31244,18,4th & E St SW,14,4,28.57142857142857
+31245,19,7th & R St NW / Shaw Library,1,18,1800.0
+31247,50,Jefferson Dr & 14th St SW,13,37,284.61538461538464
+31248,43,Smithsonian-National Mall / Jefferson Dr & 12th St SW,11,32,290.90909090909093
+31249,45,Jefferson Memorial,7,38,542.8571428571429
+31250,15,20th & L St NW,17,-2,11.76470588235294
+31251,12,12th & L St NW,11,1,9.090909090909092
+31252,16,21st St & Pennsylvania Ave NW,15,1,6.666666666666667
+31253,14,19th & I St NW,23,-9,39.130434782608695
+31254,20,15th & K St NW,15,5,33.33333333333333
+31255,8,24th & N St NW,3,5,166.66666666666669
+31256,14,10th & E St NW,10,4,40.0
+31257,16,22nd & I St NW / Foggy Bottom,25,-9,36.0
+31258,39,Lincoln Memorial,13,26,200.0
+31259,13,20th St & Virginia Ave NW,11,2,18.181818181818183
+31260,17,23rd & E St NW ,11,6,54.54545454545454
+31261,9,Virginia Ave & C St NW,14,-5,35.714285714285715
+31262,15,11th & F St NW,16,-1,6.25
+31263,15,10th & K St NW,20,-5,25.0
+31264,15,6th St & Indiana Ave NW,3,12,400.0
+31265,18,5th St & Massachusetts Ave NW,5,13,260.0
+31266,17,11th & M St NW,11,6,54.54545454545454
+31267,12,17th St & Massachusetts Ave NW,8,4,50.0
+31268,13,12th & U St NW,25,-12,48.0
+31269,14,3rd St & Pennsylvania Ave SE,5,9,180.0
+31270,20,8th & D St NW,14,6,42.857142857142854
+31271,26,Constitution Ave & 2nd St NW/DOL,14,12,85.71428571428571
+31272,28,Washington & Independence Ave SW/HHS,28,0,0.0
+31273,49,Hains Point/Buckeye & Ohio Dr SW,9,40,444.44444444444446
+31274,21,10th & G St NW,1,20,2000.0
+31275,14,New Hampshire Ave & 24th St NW,1,13,1300.0
+31276,18,15th & L St NW,23,-5,21.73913043478261
+31277,28,17th & G St NW,28,0,0.0
+31278,16,18th & R St NW,10,6,60.0
+31279,22,19th & G St NW,16,6,37.5
+31280,17,11th & S St NW,13,4,30.76923076923077
+31281,19,8th & O St NW,5,14,280.0
+31282,15,16th & R St NW,5,10,200.0
+31283,14,14th & L St NW,12,2,16.666666666666664
+31284,14,18th & C St NW,15,-1,6.666666666666667
+31286,21,11th & O St NW,14,7,50.0
+31287,19,10th St & L'Enfant Plaza SW,17,2,11.76470588235294
+31288,35,4th St & Madison Dr NW,22,13,59.09090909090909
+31290,42,17th St & Independence Ave SW,5,37,740.0
+31291,18,Vermont Ave & I St NW,14,4,28.57142857142857
+31292,19,22nd St & Constitution Ave NW,16,3,18.75
+31293,15,Thomas Jefferson St NW & Water/K St NW,5,10,200.0
+31294,11,7th & E St SW,10,1,10.0
+31295,26,Potomac & M St NW,4,22,550.0
+31296,15,Columbia & Ontario Rd NW,8,7,87.5
+31298,13,15th & M St NW,10,3,30.0
+31299,18,Connecticut Ave & R St NW,12,6,50.0
+31300,6,Van Ness Metro / UDC,11,-5,45.45454545454545
+31301,9,Ward Circle / American University,14,-5,35.714285714285715
+31302,9,Wisconsin Ave & Newark St NW,19,-10,52.63157894736842
+31303,9,Tenleytown / Wisconsin Ave & Albemarle St NW,12,-3,25.0
+31304,6,36th & Calvert St NW / Glover Park,7,-1,14.285714285714285
+31305,6,Connecticut Ave & Macomb St NW / Cleveland Park,8,-2,25.0
+31306,12,39th & Calvert St NW / Stoddert,10,2,20.0
+31307,11,3000 Connecticut Ave NW / National Zoo,5,6,120.0
+31308,4,39th & Veazey St NW,7,-3,42.857142857142854
+31309,4,Fessenden St & Wisconsin Ave NW,11,-7,63.63636363636363
+31310,5,Connecticut & Nebraska Ave NW,11,-6,54.54545454545454
+31311,24,13th & O St NW/ Logan Circle,16,8,50.0
+31312,16,Wisconsin Ave & O St NW,9,7,77.77777777777779
+31313,6,Connecticut Ave & Tilden St NW,7,-1,14.285714285714285
+31314,26,34th & Water St NW,8,18,225.0
+31315,4,Connecticut Ave & McKinley St NW,19,-15,78.94736842105263
+31316,4,Yuma St & Tenley Circle NW,19,-15,78.94736842105263
+31317,4,Wisconsin Ave & Ingomar St NW,17,-13,76.47058823529412
+31318,6,Connecticut Ave & Yuma St NW,9,-3,33.33333333333333
+31319,4,Wisconsin Ave & Brandywine St NW,24,-20,83.33333333333334
+31320,8,American University East Campus,15,-7,46.666666666666664
+31321,26,15th St & Constitution Ave NW,18,8,44.44444444444444
+31323,14,Woodley Park Metro / Calvert St & Connecticut Ave NW,11,3,27.27272727272727
+31324,17,18th & New Hampshire Ave NW,18,-1,5.555555555555555
+31325,13,Reservoir Rd & 38th St NW,13,0,0.0
+31326,8,Hardy Rec Center,9,-1,11.11111111111111
+31327,21,14th & Q St NW,14,7,50.0
+31328,19,21st St & G st NW,12,7,58.333333333333336
+31330,24,17th & P St NW,14,10,71.42857142857143
+31331,4,Arizona Ave & MacArthur Blvd NW,3,1,33.33333333333333
+31332,13,11th & V St NW,13,0,0.0
+31333,5,Wisconsin Ave & Rodman St NW,17,-12,70.58823529411765
+31334,3,Loughboro Rd & Dalecarlia Pkwy NW / Sibley Hospital,18,-15,83.33333333333334
+31335,16,16th & K St NW/BLM Plaza,32,-16,50.0
+31336,20,9th & N St NW ,18,2,11.11111111111111
+31337,16,33rd St & Wisconsin Ave NW,6,10,166.66666666666669
+31338,7,Connecticut Ave & Ordway St NW / Cleveland Park Metro ,7,0,0.0
+31339,10,18th St & Ingleside Ter NW,1,9,900.0
+31340,7,North Capitol & Douglas St NW / Reservoir Park Rec ,17,-10,58.82352941176471
+31380,3,Sunrise Valley Dr & Roland Clarke Pl,6,-3,50.0
+31381,2,Westbranch Dr & Maitland St,8,-6,75.0
+31383,4,N Shore Dr & Bandit Loop,2,2,100.0
+31385,2,Old Meadow Rd & Old Meadow Ln,11,-9,81.81818181818183
+31386,4,Prosperity Ave & Avenir Pl,10,-6,60.0
+31387,2,Kingsbridge Dr & Draper Dr,6,-4,66.66666666666666
+31389,5,Route 29 & Circle Woods Dr,6,-1,16.666666666666664
+31390,5,Whitehaven Pkwy & Foxhall Rd NW / GWU Mt. Vernon,14,-9,64.28571428571429
+31391,6,44th St & New Mexico Ave NW,14,-8,57.14285714285714
+31392,6,39th St & Tunlaw Rd NW,12,-6,50.0
+31393,12,Wisconsin Ave & Upton St NW,14,-2,14.285714285714285
+31394,5,New Mexico & Cathedral Ave NW,15,-10,66.66666666666666
+31395,4,Massachusetts & Idaho Ave NW,8,-4,50.0
+31396,2,Dorr Ave & Prosperity Ave,9,-7,77.77777777777779
+31398,4,Tyco Rd & Boyd Pointe Way,1,3,300.0
+31399,2,Old Meadow Rd & Cathy Ln,6,-4,66.66666666666666
+31400,9,Georgia & New Hampshire Ave NW,15,-6,40.0
+31401,12,14th & Quincy St NW,6,6,100.0
+31402,5,14th St Heights / 14th & Crittenden St NW,10,-5,50.0
+31403,4,5th & Kennedy St NW,2,2,100.0
+31404,9,9th & Upshur St NW,1,8,800.0
+31405,5,Georgia Ave & Emerson St NW,2,3,150.0
+31406,6,14th & Upshur St NW,17,-11,64.70588235294117
+31407,7,Colorado Ave & Longfellow St NW,14,-7,50.0
+31408,7,Takoma Metro,11,-4,36.36363636363637
+31411,5,Georgia & Missouri Ave NW,11,-6,54.54545454545454
+31412,4,3rd St & Riggs Rd NE,2,2,100.0
+31413,4,3rd & Underwood St NW,14,-10,71.42857142857143
+31414,3,Georgia Ave & Piney Branch Rd NW,11,-8,72.72727272727273
+31415,4,Georgia Ave & Kennedy St NW,17,-13,76.47058823529412
+31416,3,14th St & Luzon Ave NW,8,-5,62.5
+31417,9,Kansas Ave & Sherman Cr NW,3,6,200.0
+31418,7,New Hampshire & Gallatin St NW,9,-2,22.22222222222222
+31419,16,Georgia Ave & Morton St NW,12,4,33.33333333333333
+31420,7,17th & Upshur St NW,19,-12,63.1578947368421
+31421,9,Grant Circle,7,2,28.57142857142857
+31422,4,Broad Branch Rd & Northampton St NW,16,-12,75.0
+31423,5,Kansas Ave & Longfellow St NW,1,4,400.0
+31424,4,9th & Ingraham St NW,5,-1,20.0
+31425,6,Georgia Ave & Dahlia St NW,5,1,20.0
+31426,8,10th St & Spring Rd NW,12,-4,33.33333333333333
+31427,2,Kansas Ave & Tuckerman St NW / Lamond Rec ,11,-9,81.81818181818183
+31428,2,Western Ave & Pinehurst Cir NW ,6,-4,66.66666666666666
+31429,20,Rock Creek Pkwy & Pkwy Dr NW ,18,2,11.11111111111111
+31500,8,4th & W St NE,12,-4,33.33333333333333
+31501,4,12th & Newton St NE,5,-1,20.0
+31502,7,John McCormack Rd & Michigan Ave NE,10,-3,30.0
+31503,17,Florida Ave & R St NW,6,11,183.33333333333331
+31504,5,10th & Monroe St NE,18,-13,72.22222222222221
+31505,17,Eckington Pl & Q St NE,20,-3,15.0
+31506,17,1st & Rhode Island Ave NW,14,3,21.428571428571427
+31507,8,1st & Washington Hospital Center NW,9,-1,11.11111111111111
+31508,9,Gallaudet / 8th St & Florida Ave NE,15,-6,40.0
+31510,3,18th St & Rhode Island Ave NE,1,2,200.0
+31511,6,12th & Irving St NE,9,-3,33.33333333333333
+31512,10,Neal St & Trinidad Ave NE,5,5,100.0
+31513,5,Rhode Island Ave & V St NE,18,-13,72.22222222222221
+31514,8,Hamlin & 7th St NE,8,0,0.0
+31515,7,Fort Totten Metro,11,-4,36.36363636363637
+31516,6,Rhode Island Ave Metro,18,-12,66.66666666666666
+31517,15,Union Market,9,6,66.66666666666666
+31518,10,New York Ave & Hecht Ave NE,12,-2,16.666666666666664
+31519,11,1st & O St NW,5,6,120.0
+31520,19,24th & R St NE / National Arboretum,5,14,280.0
+31522,9,2nd St & Seaton Pl NE,15,-6,40.0
+31523,9,Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center,11,-2,18.181818181818183
+31524,9,Montello Ave & Holbrook Terr NE,11,-2,18.181818181818183
+31525,6,Trinidad Rec Center,18,-12,66.66666666666666
+31526,3,Rhode Island & Montana Ave NE,13,-10,76.92307692307693
+31527,10,North Capitol & R St NE,8,2,25.0
+31528,7,John McCormack Rd NE,13,-6,46.15384615384615
+31529,9,Edgewood Rec Center,2,7,350.0
+31530,4,Capitol Ave & Kendall St NE,14,-10,71.42857142857143
+31531,18,MBT & Bryant St NE,14,4,28.57142857142857
+31532,20,4th & Florida Ave NE,12,8,66.66666666666666
+31533,18,Tanner Park,9,9,100.0
+31534,10,7th & Monroe St NE,6,4,66.66666666666666
+31535,3,10th St & Rhode Island Ave NE,12,-9,75.0
+31536,15,5th & Morse St NE,18,-3,16.666666666666664
+31537,2,Fort Lincoln Dr & 33rd Pl NE,11,-9,81.81818181818183
+31538,4,South Dakota Ave & Bladensburg Rd NE,9,-5,55.55555555555556
+31539,2,South Dakota Ave & 33rd St NE,1,1,100.0
+31540,14,3rd & N St NE,6,8,133.33333333333331
+31541,7,10th & Quincy St NE / Turkey Thicket Rec,15,-8,53.333333333333336
+31542,3,12th & Varnum St NE,1,2,200.0
+31543,2,24th St & Rhode Island Ave NE,7,-5,71.42857142857143
+31544,2,Michigan Ave & Allison St NE,3,-1,33.33333333333333
+31546,3,South Dakota Ave & Decatur St NE ,3,0,0.0
+31600,27,5th & K St NW,5,22,440.00000000000006
+31601,8,19th & East Capitol St SE,12,-4,33.33333333333333
+31602,16,Park Rd & Holmead Pl NW,32,-16,50.0
+31603,22,1st & M St NE,1,21,2100.0
+31604,12,3rd & H St NW,11,1,9.090909090909092
+31605,13,3rd & D St SE,11,2,18.181818181818183
+31606,12,Potomac & Pennsylvania Ave SE,5,7,140.0
+31607,7,13th & E St SE,9,-2,22.22222222222222
+31608,9,8th & Eye St SE / Barracks Row,11,-2,18.181818181818183
+31610,20,Eastern Market / 7th & North Carolina Ave SE,12,8,66.66666666666666
+31611,20,13th & H St NE,1,19,1900.0
+31612,15,D St & Maryland Ave NE,22,-7,31.818181818181817
+31615,24,6th & H St NE,6,18,300.0
+31616,16,3rd & H St NE,5,11,220.00000000000003
+31618,14,4th & East Capitol St NE,5,9,180.0
+31619,16,Lincoln Park / 13th & East Capitol St NE ,17,-1,5.88235294117647
+31620,14,5th & F St NW,26,-12,46.15384615384615
+31621,9,4th & D St NW / Judiciary Square,14,-5,35.714285714285715
+31622,16,13th & D St NE,26,-10,38.46153846153847
+31623,44,Columbus Circle / Union Station,17,27,158.8235294117647
+31624,19,North Capitol St & F St NW,7,12,171.42857142857142
+31625,15,3rd & G St SE,6,9,150.0
+31626,8,15th St & Massachusetts Ave SE,9,-1,11.11111111111111
+31627,23,M St & Delaware Ave NE,16,7,43.75
+31628,18,1st & I St SE,2,16,800.0
+31629,9,8th & East Capitol St NE,6,3,50.0
+31630,9,15th & East Capitol St NE,7,2,28.57142857142857
+31631,17,8th & F St NE,14,3,21.428571428571427
+31632,14,15th & F St NE,4,10,250.0
+31633,31,Independence Ave & L'Enfant Plaza SW/DOE,4,27,675.0
+31634,12,3rd & Tingey St SE,10,2,20.0
+31635,9,Potomac Ave & 8th St SE,9,0,0.0
+31636,14,New Jersey Ave & N St NW/Dunbar HS,8,6,75.0
+31638,8,1st & H St NW,5,3,60.0
+31639,15,2nd & G St NE,12,3,25.0
+31640,13,Maryland Ave & E St NE,14,-1,7.142857142857142
+31641,20,2nd St & Massachusetts Ave NE,16,4,25.0
+31642,16,New Jersey Ave & K St NW,17,-1,5.88235294117647
+31643,16,1st & D St SE,12,4,33.33333333333333
+31644,7,12th St & Pennsylvania Ave SE,18,-11,61.111111111111114
+31645,13,6th & K St NE,9,4,44.44444444444444
+31646,33,Maine Ave & 9th St SW,6,27,450.0
+31647,12,7th St & Massachusetts Ave NE,11,1,9.090909090909092
+31648,20,Potomac Ave & Half St SW,13,7,53.84615384615385
+31649,7,14th & Newton St NW,16,-9,56.25
+31650,31,1st & M St SE,22,9,40.909090909090914
+31651,13,11th & Park Rd NW,19,-6,31.57894736842105
+31652,17,4th & M St SE,15,2,13.333333333333334
+31653,19,7th & K St NW,6,13,216.66666666666666
+31654,11,King Greenleaf Rec Center,8,3,37.5
+31655,21,New Jersey Ave & F St NW,10,11,110.00000000000001
+31656,7,Maryland Ave & 17th St NE,12,-5,41.66666666666667
+31657,15,Massachusetts Ave & 6th St NE,11,4,36.36363636363637
+31658,6,Rosedale Rec Center,3,3,100.0
+31659,8,11th & C St SE,10,-2,20.0
+31661,11,8th & H St NE,10,1,10.0
+31662,23,1st & K St NE,10,13,130.0
+31663,9,14th & D St SE,13,-4,30.76923076923077
+31664,9,Half & Water St SW,3,6,200.0
+31665,4,Stadium Armory Metro,9,-5,55.55555555555556
+31666,18,4th & G St SW,5,13,260.0
+31667,10,2nd & V St SW / James Creek Marina,6,4,66.66666666666666
+31668,23,1st St & Potomac Ave SE,19,4,21.052631578947366
+31669,21,3rd & M St SE,19,2,10.526315789473683
+31670,12,12th St & New York Ave NW,27,-15,55.55555555555556
+31671,1,53rd & D St SE/C.W. Harris Elementary,14,-13,92.85714285714286
+31672,12,10th & H St NE,2,10,500.0
+31673,12,Waterfront Park,11,1,9.090909090909092
+31674,19,Maine Ave & Water St SW,4,15,375.0
+31675,11,North Capitol & K St NE,8,3,37.5
+31676,12,1st & Q St SW,12,0,0.0
+31677,11,1st & L St NW,10,1,10.0
+31678,9,4th & O St SW,1,8,800.0
+31680,12,Half & I St SW ,3,9,300.0
+31699,37,Eastern Market Metro,28,9,32.142857142857146
+31700,2,Marion Barry Ave & Naylor Rd SE,19,-17,89.47368421052632
+31701,3,Branch & Pennsylvania Ave SE,14,-11,78.57142857142857
+31702,2,Randle Circle & Minnesota Ave SE,6,-4,66.66666666666666
+31703,4,Minnesota Ave Metro/DOES,10,-6,60.0
+31704,2,Nannie Helen Burroughs & Minnesota Ave NE,3,-1,33.33333333333333
+31705,4,Benning Branch Library,9,-5,55.55555555555556
+31706,2,Fairfax Village,5,-3,60.0
+31707,2,Benning Rd & East Capitol St NE / Benning Rd Metro,13,-11,84.61538461538461
+31708,6,Anacostia Ave & Benning Rd NE / River Terrace ,13,-7,53.84615384615385
+31710,2,Nannie Helen Burroughs Ave & 49th St NE,1,1,100.0
+31711,2,Deanwood Rec Center,6,-4,66.66666666666666
+31712,8,Oklahoma Ave & D St NE,10,-2,20.0
+31713,2,Division Ave & Foote St NE,5,-3,60.0
+31714,3,61st St & Banks Pl NE,11,-8,72.72727272727273
+31715,4,37th & Ely Pl SE,10,-6,60.0
+31716,7,Kingman Island/The Fields at RFK,5,2,40.0
+31717,3,Kenilworth Terr & Hayes St. NE,9,-6,66.66666666666666
+31718,3,Ridge Rd Community Center,13,-10,76.92307692307693
+31720,7,Anacostia Roller Skating Pavilion,17,-10,58.82352941176471
+31721,8,Anacostia Ave & East Capitol St NE,9,-1,11.11111111111111
+31722,2,Woody Ward Rec Center,15,-13,86.66666666666667
+31723,1,Ridge Rd & Southern Ave SE,11,-10,90.9090909090909
+31724,1,41st St & Alabama Ave SE / Fort Davis Rec,8,-7,87.5
+31725,7,16th St & North Carolina Ave NE,11,-4,36.36363636363637
+31726,2,34th St & Minnesota Ave SE,7,-5,71.42857142857143
+31727,10,17th St & Potomac Ave SE / Congressional Cemetery ,17,-7,41.17647058823529
+31728,2,55th & East Capitol St NE,7,-5,71.42857142857143
+31800,1,Alabama & MLK Ave SE,7,-6,85.71428571428571
+31801,4,Anacostia Metro,6,-2,33.33333333333333
+31802,4,MLK & Marion Barry Ave SE,2,2,100.0
+31803,3,14th St & Marion Barry Ave SE,2,1,50.0
+31804,3,Anacostia Library,9,-6,66.66666666666666
+31805,3,Pennsylvania & Minnesota Ave SE,3,0,0.0
+31806,4,Congress Heights Metro,14,-10,71.42857142857143
+31808,2,W St & Shannon Pl SE,4,-2,50.0
+31811,2,South Capitol & Atlantic St SW,16,-14,87.5
+31812,4,16th & Q St SE / Anacostia HS,12,-8,66.66666666666666
+31813,5,Alabama Ave & Stanton Rd SE / Shops at Park Village,12,-7,58.333333333333336
+31814,2,Mississippi Ave & 19th St SE / THEARC,8,-6,75.0
+31815,2,19th & Savannah St SE,8,-6,75.0
+31816,2,4th St & Mississippi Ave SE,14,-12,85.71428571428571
+31817,4,1st & S Capitol St SE / Oxon Run Trail,1,3,300.0
+31818,1,Livingston Rd & 3rd St SE,10,-9,90.0
+31819,1,Joliet St & MLK Ave SW/Bald Eagle Rec Ctr,4,-3,75.0
+31820,4,Anacostia Park,4,0,0.0
+31822,1,Stanton Square SE,17,-16,94.11764705882352
+31824,3,Valley Ave & Wheeler Rd SE,4,-1,25.0
+31825,1,Fort Stanton Rec Center,14,-13,92.85714285714286
+31826,3,Minnesota Ave & R St SE,16,-13,81.25
+31827,11,St. Elizabeths West Campus/DHS ,19,-8,42.10526315789473
+31829,3,16th & Bangor St SE,11,-8,72.72727272727273
+31831,2,25th & S St SE ,7,-5,71.42857142857143
+31900,3,Langston Blvd & N Woodstock St,13,-10,76.92307692307693
+31901,3,Washington Blvd & N Frederick St,9,-6,66.66666666666666
+31902,6,Wilson Blvd & N Illinois St ,8,-2,25.0
+31903,3,Royal St & Wilkes St,1,2,200.0
+31904,7,East Falls Church Metro / Sycamore St & 19th St N,16,-9,56.25
+31905,2,Kennebec St & 11th St N,6,-4,66.66666666666666
+31906,2,Commonwealth Ave & Oak St,12,-10,83.33333333333334
+31908,3,Radford & Osage St,10,-7,70.0
+31909,6,Mount Vernon Ave & Four Mile Run Park,13,-7,53.84615384615385
+31910,6,Potomac Ave & Main Line Blvd,15,-9,60.0
+31912,3,Mount Vernon Ave & Bruce St,10,-7,70.0
+31914,3,Lee Center,9,-6,66.66666666666666
+31915,4,Powhatan St & Bashford Ln,8,-4,50.0
+31916,4,Potomac Ave & Swann Ave,16,-12,75.0
+31917,9,N Lynn St & Fairfax Dr,10,-1,10.0
+31918,8,Madison St & Fairfax St,12,-4,33.33333333333333
+31919,5,Carlin Springs Rd & N Thomas St,5,0,0.0
+31920,7,Washington-Liberty High School / N Stafford St & Generals Way,10,-3,30.0
+31921,2,Westover Library / Washington Blvd & N McKinley Rd,9,-7,77.77777777777779
+31923,3,Columbia Pike & S George Mason Dr,9,-6,66.66666666666666
+31924,6,Wilson Blvd & N Troy St,9,-3,33.33333333333333
+31926,4,Wilson Blvd & N Vermont St,11,-7,63.63636363636363
+31927,3,Wheeler Ave & S. Floyd St.,8,-5,62.5
+31928,3,N. Beauregard St. & Berkley St.,13,-10,76.92307692307693
+31929,5,Mt Vernon Trail & S. Washington St.,2,3,150.0
+31930,4,Eisenhower Ave & Ike Dr,14,-10,71.42857142857143
+31931,5,N Pitt St & Montgomery St,4,1,25.0
+31932,2,Van Dorn Metro,6,-4,66.66666666666666
+31933,5,Duke St & Strand (Robinson Terminal),3,2,66.66666666666666
+31935,6,National Airport,13,-7,53.84615384615385
+31936,4,Army Navy Dr & Fern St,10,-6,60.0
+31937,5,Arlington Blvd & Ft Myer Dr,9,-4,44.44444444444444
+31938,4,23rd St S & Hayes St,8,-4,50.0
+31939,6,Wilson Blvd & N Oak St,11,-5,45.45454545454545
+31940,5,Arlington Blvd & Fairfax Dr,10,-5,50.0
+31941,2,N Hampton Dr & Ford Ave,6,-4,66.66666666666666
+31942,2,Whiting & Lane Dr,7,-5,71.42857142857143
+31943,2,N Howard St & Taney Ave,9,-7,77.77777777777779
+31944,3,S Clark St & 33rd St,4,-1,25.0
+31945,2,Columbia Pike & S Greenbrier St,14,-12,85.71428571428571
+31946,2,Kenmore Ave & Seminary Rd,7,-5,71.42857142857143
+31947,17,Rosslyn Metro / Wilson Blvd & N Moore St,20,-3,15.0
+31948,3,W&OD Trail & Langston Blvd,9,-6,66.66666666666666
+31950,9,Long Bridge Aquatic Center,9,0,0.0
+31951,4,8th Rd & S Frederick St,9,-5,55.55555555555556
+31952,2,N Howard St & N Imboden St,13,-11,84.61538461538461
+31953,2,S Pickett St & Shillings St,3,-1,33.33333333333333
+31954,2,S Jordan St & Venable St,7,-5,71.42857142857143
+31955,4,King St & Peyton St,12,-8,66.66666666666666
+31956,3,Reed & Edison,2,1,50.0
+31957,2,King St & Kenwood Ave,13,-11,84.61538461538461
+31958,3,S Washington St & Wilkes St,5,-2,40.0
+31959,6,Main Line Blvd & E Glebe,12,-6,50.0
+31960,4,Commonwealth and Reed,5,-1,20.0
+31961,3,Fillmore & Bisdorf,8,-5,62.5
+31962,2,King St & W Braddock Rd,5,-3,60.0
+31963,4,Holmes Run Pkwy & N Pickett St,10,-6,60.0
+31964,2,Virginia Theological Seminary,9,-7,77.77777777777779
+31966,2,Duke St & Jordan St,8,-6,75.0
+31967,2,S Reynolds St & Edsall Rd,9,-7,77.77777777777779
+31968,10,King St & N Pitt St,2,8,400.0
+31969,9,Braddock Rd Metro South,19,-10,52.63157894736842
+31970,5,First St & Fayette St,13,-8,61.53846153846154
+31971,3,S Wayne St and 9th St S,9,-6,66.66666666666666
+31972,6,S Wakefield St & 28th St S,9,-3,33.33333333333333
+31973,4,N Pershing Dr & N Quebec St,5,-1,20.0
+31974,7,Mandeville Ln & Stovall St,4,3,75.0
+31976,2,Virginia Hospital Center,7,-5,71.42857142857143
+31977,3,Marymount University / Yorktown Blvd & 26th St N,10,-7,70.0
+31978,28,Arlington National Cemetery,1,27,2700.0
+31979,7,Potomac Yard Metro South,8,-1,12.5
+31981,6,Columbia Pike & W&OD Trail ,11,-5,45.45454545454545
+32000,5,Norfolk Ave & Fairmont St,8,-3,37.5
+32001,5,Fenton St & New York Ave ,8,-3,37.5
+32002,6,Bethesda Ave & Arlington Rd,10,-4,40.0
+32003,3,Montgomery Ave & Waverly St ,3,0,0.0
+32005,2,Traville Gateway Dr & Gudelsky Dr,8,-6,75.0
+32006,3,13th St & Eastern Ave,9,-6,66.66666666666666
+32008,4,Cordell & Norfolk Ave,8,-4,50.0
+32009,2,Frederick Ave & Horners Ln,7,-5,71.42857142857143
+32012,5,Silver Spring Metro / Colesville Rd & Wayne Ave,16,-11,68.75
+32014,5,Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,17,-12,70.58823529411765
+32017,3,Monroe St & Monroe Pl,10,-7,70.0
+32018,2,Needwood Rd & Eagles Head Ct,12,-10,83.33333333333334
+32019,4,East West Hwy & Blair Mill Rd,2,2,100.0
+32021,5,47th & Elm St,14,-9,64.28571428571429
+32022,3,Dennis Ave & Amherst Ave,9,-6,66.66666666666666
+32023,3,Montgomery College / W Campus Dr & Mannakee St,14,-11,78.57142857142857
+32024,3,Fenton St & Gist Ave,3,0,0.0
+32025,5,Carroll & Westmoreland Ave,3,2,66.66666666666666
+32026,4,Carroll & Ethan Allen Ave,6,-2,33.33333333333333
+32027,5,Battery Ln & Trolley Trail,9,-4,44.44444444444444
+32028,3,Norfolk & Rugby Ave,8,-5,62.5
+32029,4,Offutt Ln & Chevy Chase Dr,7,-3,42.857142857142854
+32032,2,Fleet St & Ritchie Pkwy,11,-9,81.81818181818183
+32034,3,Silver Spring Transit Center - Top Level,14,-11,78.57142857142857
+32036,4,Fenton St & Ellsworth Dr ,13,-9,69.23076923076923
+32037,3,King Farm Blvd & Pleasant Dr,10,-7,70.0
+32038,2,King Farm Blvd & Piccard Dr,14,-12,85.71428571428571
+32039,3,Old Georgetown Rd & Southwick St,13,-10,76.92307692307693
+32040,3,Friendship Blvd & Willard Ave,12,-9,75.0
+32043,3,Veterans Pl & Pershing Dr ,6,-3,50.0
+32044,2,Rockville Metro East,9,-7,77.77777777777779
+32045,3,Shady Grove Metro West,18,-15,83.33333333333334
+32046,7,River Rd & Landy Ln,13,-6,46.15384615384615
+32047,2,Rockville Metro West,16,-14,87.5
+32048,5,Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,6,-1,16.666666666666664
+32049,5,WAU / Flower Ave & Division St,2,3,150.0
+32050,2,Spring St & 2nd Ave,5,-3,60.0
+32051,4,Connecticut Ave & Chevy Chase Lake Dr,12,-8,66.66666666666666
+32053,3,Medical Center Metro ,14,-11,78.57142857142857
+32054,3,Lyttonsville Rd & Lyttonsville Pl,5,-2,40.0
+32055,7,Woodmont Ave & Strathmore St,4,3,75.0
+32056,4,East West Hwy & 16th St,12,-8,66.66666666666666
+32057,4,Pooks Hill Rd & Linden Ave,3,1,33.33333333333333
+32058,2,Sligo Ave & Carroll Ln,13,-11,84.61538461538461
+32061,2,New Hampshire & Kirklynn Ave,14,-12,85.71428571428571
+32062,3,Wheaton Metro / Georgia Ave & Reedie Dr,14,-11,78.57142857142857
+32063,3,Amherst Ave & Elkins St,10,-7,70.0
+32064,2,Amherst Ave & Prichard Rd,14,-12,85.71428571428571
+32065,4,Grandview & Blueridge Ave,12,-8,66.66666666666666
+32066,2,Windham Ln & Amherst Ave,13,-11,84.61538461538461
+32067,2,Shady Grove Metro East,14,-12,85.71428571428571
+32068,2,Columbus Ave & Tribeca St,7,-5,71.42857142857143
+32073,1,Blueridge Ave & Elkin St,13,-12,92.3076923076923
+32074,4,Twinbrook Metro,14,-10,71.42857142857143
+32075,3,North Bethesda Metro,25,-22,88.0
+32076,3,Citadel Ave & McGrath Blvd,13,-10,76.92307692307693
+32077,3,Rockville Pike & Old Georgetown Rd,14,-11,78.57142857142857
+32078,4,Woodglen Dr & Executive Blvd,14,-10,71.42857142857143
+32079,3,Executive Blvd & E Jefferson St,6,-3,50.0
+32080,3,Fishers Ln & Rock Creek Mill Rd,7,-4,57.14285714285714
+32081,2,Congressional Ln & E Jefferson St,6,-4,66.66666666666666
+32082,3,Garland Ave & Walden Rd,8,-5,62.5
+32083,2,Rockville Pike & Rose Ave,13,-11,84.61538461538461
+32084,3,Wheaton Library & Community Rec Center,9,-6,66.66666666666666
+32085,2,The Shoppes @ Burnt Mills,5,-3,60.0
+32086,2,Briggs Chaney & Castle Dr,15,-13,86.66666666666667
+32087,1,White Oak Rec Center,14,-13,92.85714285714286
+32088,1,Briggs Chaney Park & Ride,9,-8,88.88888888888889
+32089,3,New Hampshire & Lockwood,11,-8,72.72727272727273
+32090,1,Stewart & April,15,-14,93.33333333333333
+32092,2,Castle Blvd & Castle Ln,16,-14,87.5
+32094,1,Oak Leaf & Lockwood,18,-17,94.44444444444444
+32101,2,Witter Field,10,-8,80.0
+32200,2,Spring Hill Metro,14,-12,85.71428571428571
+32201,3,Westpark Dr & Leesburg Pike,11,-8,72.72727272727273
+32203,3,Tysons Metro South,5,-2,40.0
+32204,4,Tysons Metro North,11,-7,63.63636363636363
+32205,1,Westpark & Jones Branch Dr,3,-2,66.66666666666666
+32206,2,Jones Branch & Westbranch Dr,5,-3,60.0
+32207,3,Westpark & Park Run Dr,11,-8,72.72727272727273
+32209,6,North Shore & Cameron Crescent Dr/Crescent Apartments,1,5,500.0
+32210,2,Town Center Pkwy & Bowman Towne Dr,6,-4,66.66666666666666
+32211,4,Greensboro Metro East,13,-9,69.23076923076923
+32212,2,New Dominion Pkwy & Fountain Dr,8,-6,75.0
+32213,5,W&OD Trail/Sunset Hills Rd & Old Reston Ave,1,4,400.0
+32214,5,W&OD Trail & Explorer St/Reston Bus Station,13,-8,61.53846153846154
+32215,3,Wiehle-Reston Metro South,16,-13,81.25
+32216,3,Library St & Freedom Dr,13,-10,76.92307692307693
+32218,4,Temporary Rd & Old Reston Ave,9,-5,55.55555555555556
+32219,2,Reston YMCA,5,-3,60.0
+32220,3,W&OD Trail/Sunset Hills Rd & Isaac Newton Sq,12,-9,75.0
+32221,2,Greensboro & International Dr,7,-5,71.42857142857143
+32223,2,North Shore Dr & Village Rd,5,-3,60.0
+32224,4,Town Center Pkwy & Sunset Hills Rd,6,-2,33.33333333333333
+32225,1,Reston Pkwy & Spectrum Dr,2,-1,50.0
+32226,14,20th & I St NW,24,-10,41.66666666666667
+32228,2,Reston Station Blvd & Sunset Hills Rd,4,-2,50.0
+32229,3,Park Run & Onyx Dr,8,-5,62.5
+32230,2,McLean Metro,14,-12,85.71428571428571
+32231,4,Dunn Loring Metro,16,-12,75.0
+32234,6,Merrilee Dr & Lauren Elizabeth Lane,11,-5,45.45454545454545
+32235,7,Merrifield Cinema & Merrifield Town Center,2,5,250.0
+32236,2,Vy Reston Heights,7,-5,71.42857142857143
+32237,2,Baron Cameron Ave & North Hampton Ave,5,-3,60.0
+32238,2,Ridge Heights Rd & Seahawks Dr,1,1,100.0
+32242,3,Market St & St Francis St,11,-8,72.72727272727273
+32243,4,Reston Town Center Metro North,12,-8,66.66666666666666
+32244,1,Vantage Hill Rd & Wainwright Dr,8,-7,87.5
+32246,2,Golf Course Sq and Golf Course Dr,8,-6,75.0
+32247,1,South Lakes Dr and Reston Pkwy,11,-10,90.9090909090909
+32248,5,Olde Crafts Dr and Cartwright Pl,4,1,25.0
+32250,1,Glade Dr & Pinecrest Rd/Cathy Hudgins Cmty Ctr,10,-9,90.0
+32251,3,Lake Newport Rd and Autumn Ridge Cir,5,-2,40.0
+32252,3,Ridge Heights and Owl Cove Ln,9,-6,66.66666666666666
+32255,2,Hartland Rd & Harte Pl,7,-5,71.42857142857143
+32258,2,Reston Town Center Metro South,18,-16,88.88888888888889
+32259,2,N Shore Dr & Wainwright Dr,10,-8,80.0
+32260,3,Vienna Metro South,18,-15,83.33333333333334
+32261,4,Vaden Dr & Royal Victoria Dr/Jim Scott Cmty Ctr,11,-7,63.63636363636363
+32262,5,District Ave & Strawberry Ln/Mosaic Market Garage,10,-5,50.0
+32263,2,Gatehouse Rd & Telestar Ct,5,-3,60.0
+32264,2,Pimmit Dr & Idyl Ln,10,-8,80.0
+32265,2,Pimmit Dr & Los Pueblos Ln,3,-1,33.33333333333333
+32266,2,Emma Lee St & Morris St,8,-6,75.0
+32268,3,Arlington Blvd & Allen St,10,-7,70.0
+32270,2,Westbranch & Jones Branch Dr,1,1,100.0
+32271,2,Madron Ln & Bermudez Ct,9,-7,77.77777777777779
+32272,2,Madrillon Rd & Boss St,10,-8,80.0
+32274,3,Beech Dr at Draper Dr Park,9,-6,66.66666666666666
+32275,1,Fairfax Blvd & Pickett Rd South,12,-11,91.66666666666666
+32276,3,Fairfax Blvd & Pickett Rd North,8,-5,62.5
+32277,2,Layton Hall Dr & University Dr,7,-5,71.42857142857143
+32278,2,Blenheim Blvd & North St,5,-3,60.0
+32279,2,George Mason Blvd & Armstrong St,7,-5,71.42857142857143
+32280,3,University Dr & Democracy Ln,2,1,50.0
+32281,2,Fair Woods Pkwy & Fairfax Blvd,9,-7,77.77777777777779
+32282,2,School St & George Mason Blvd,7,-5,71.42857142857143
+32283,2,South St & University Dr,2,0,0.0
+32288,2,Seatrend Way & Topsails Ln,1,1,100.0
+32289,3,Franconia-Springfield Metro North,5,-2,40.0
+32290,4,Charles Arrington Dr & Manchester Lakes Dr ,9,-5,55.55555555555556
+32293,3,GMU/Patriot Cir & York Dr,1,2,200.0
+32294,2,GMU/Rappahannock River Ln,6,-4,66.66666666666666
+32295,4,GMU/Horizon Hall & Harris Theater,11,-7,63.63636363636363
+32296,2,Metro Park Dr & Walker Ln ,12,-10,83.33333333333334
+32297,2,Hilltop Rd & Willowmere Dr ,4,-2,50.0
+32298,2,Chain Bridge Rd & Anderson Rd,8,-6,75.0
+32301,16,20th & N St NW ,11,5,45.45454545454545
+32320,4,Reston Cmty Ctr/Hunters Woods Plaza,6,-2,33.33333333333333
+32400,2,1301 McCormick Dr / Wayne K. Curry Admin Bldg,13,-11,84.61538461538461
+32401,2,Largo Town Center Metro,12,-10,83.33333333333334
+32402,4,Baltimore Ave & Van Buren St / Riverdale Park Station,16,-12,75.0
+32403,3,Baltimore Ave & Jefferson St,11,-8,72.72727272727273
+32405,1,Largo Rd & Campus Way / Prince Georges's Comm Col,2,-1,50.0
+32406,7,Fleet St & Waterfront St,4,3,75.0
+32407,2,Oxon Hill Park & Ride,13,-11,84.61538461538461
+32408,2,Oglethorpe St & 42nd Ave,5,-3,60.0
+32409,2,Southern Ave Metro,12,-10,83.33333333333334
+32411,3,Northwestern High School,9,-6,66.66666666666666
+32412,3,New Hampshire Ave & East-West Hwy,12,-9,75.0
+32413,3,Rhode Island Ave & 39th St / Brentwood Arts Exchange,4,-1,25.0
+32414,2,Riggs Rd & East West Hwy,5,-3,60.0
+32415,5,Tanger Outlets,10,-5,50.0
+32416,3,Chillum Rd & Riggs Rd / Riggs Plaza,3,0,0.0
+32417,3,Hyattsville Library / Adelphi Rd & Toledo Rd,14,-11,78.57142857142857
+32418,5,West Hyattsville Metro,1,4,400.0
+32419,2,Capitol Heights Metro,11,-9,81.81818181818183
+32420,4,Prince George's Plaza Metro,16,-12,75.0
+32421,4,Riverdale Park Town Center,10,-6,60.0
+32422,4,The Mall at Prince Georges,13,-9,69.23076923076923
+32423,6,National Harbor Carousel,6,0,0.0
+32424,2,Roosevelt Center & Crescent Rd,5,-3,60.0
+32425,5,Crescent Rd & Ridge Rd,4,1,25.0
+32426,3,Greenbelt Station Parkway,7,-4,57.14285714285714
+32427,3,40th Ave & Bladensburg Rd,10,-7,70.0
+32428,4,Walker Mill Road/ Walker Mill Regional Park ,3,1,33.33333333333333
+32429,4,Bowdoin Ave & Calvert Rd/ College Park Station,10,-6,60.0
+32430,5,Guilford Drive & Rowalt Drive / UMD,9,-4,44.44444444444444
+32431,3,Baltimore Avenue and Hotel Drive at UMD,13,-10,76.92307692307693
+32432,6,Bladensburg Waterfront Park,5,1,20.0
+32433,6,Rhode Island Avenue /Charles Armentrout Drive - Melrose Skate Park ,5,1,20.0
+32434,3,Motiva Greenbelt,1,2,200.0
+32600,3,Founders Row/W Broad St & West St,10,-7,70.0
+32601,3,Eden Center,6,-3,50.0
+32602,3,N Oak St & W Broad St,11,-8,72.72727272727273
+32603,5,Pennsylvania Ave & Park Ave,7,-2,28.57142857142857
+32604,3,E Fairfax St & S Washington St,4,-1,25.0
+32605,3,W Broad St & Little Falls St,6,-3,50.0
+32606,4,N Roosevelt St & Roosevelt Blvd,2,2,100.0
+32607,3,S Maple Ave & S Washington St,4,-1,25.0
+32608,3,Falls Church City Hall / Park Ave & Little Falls St,9,-6,66.66666666666666
+32609,4,W Columbia St & N Washington St,11,-7,63.63636363636363
+33200,13,17th St & New York Ave NW,1,12,1200.0
