@@ -12,7 +12,7 @@ df_peak2 = df_peak[['station_id','capacity']].rename(columns={'capacity':'capaci
 
 
 # 3. 加载官方数据（直接用官方汇总结果）
-df_off_sub = pd.read_csv(r'D:\competition\code\official_docks_202503.csv', encoding='utf-8-sig')
+df_off_sub = pd.read_csv(r'D:\competition\code\停车位推算\official_docks_202503.csv', encoding='utf-8-sig')
 
 
 df_peak2 = df_peak2.dropna(subset=['station_id'])
