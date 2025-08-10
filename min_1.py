@@ -4,16 +4,16 @@ import pandas as pd
 import cvxpy as cp
 
 # ===== 参数配置 =====
-DEMAND_CSV = "D:/competition/code/demand_features.csv"
-OUTPUT_XLSX = "D:/competition/code/result1_2.xlsx"
+DEMAND_CSV = "demand_features.csv"
+OUTPUT_XLSX = "result1_2.xlsx"
 
 ALPHA = 1.0
 BETA = 1.0
 MAX_CLOSE = 158
 CAP_MULTIPLIER = 1.10
-TOTAL_CAPACITY_NOW = 33104
+TOTAL_CAPACITY_NOW = 13670
 Y_MIN = 1
-Y_MAX_PER_STATION = 300
+Y_MAX_PER_STATION = 200
 
 # ===== 读取数据 =====
 print("读取数据...")
@@ -22,7 +22,7 @@ df["borrow_count"] = df["borrow_count"].fillna(0).clip(lower=0)
 df["return_count"] = df["return_count"].fillna(0).clip(lower=0)
 df["predicted_demand"] = df["predicted_demand"].fillna(0).clip(lower=0)
 df["imbalance"] = (df["borrow_count"] - df["return_count"]).abs()
-df["predicted_daily"] = df["predicted_demand"] / 32.0
+df["predicted_daily"] = df["predicted_demand"] / 32.0 
 
 n = len(df)
 imbalance = df["imbalance"].values
@@ -83,7 +83,7 @@ print(f"初步解：保留 {x_val.sum()} 站点，关闭 {n - x_val.sum()} 站�
 def local_search_optimize(df, x_init, y_init, alpha, beta, max_close, cap_multiplier, total_capacity_now, y_min, y_max, max_iter=500, no_improve_limit=50):
     n = len(df)
     imbalance = df["imbalance"].values
-    pred_daily = df["predicted_demand"].values / 32.0
+    pred_daily = df["predicted_demand"].values / 32.0 
     
     x_best = x_init.copy()
     y_best = y_init.copy()
